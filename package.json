@@ -1,0 +1,12 @@
+{
+  "name": "anurag-dummy",
+  "version": "1.0.0",
+  "description": "Dummy app for AI Merge Conflict Resolver testing",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "node dist/index.js",
+    "build": "tsc"
+  },
+  "author": "Anurag Kumar",
+  "license": "MIT"
+}
